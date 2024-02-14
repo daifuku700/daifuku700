@@ -3,13 +3,15 @@
   <p>I’m Dai Fukunaga, studying at a university in Japan.</p>
 </div>
 
+<br/>
+
 <div align="center">
   <h1>🌱 My Skills</h1>
   <br/>
   <img src="https://skillicons.dev/icons?i=cpp,c,js,py,java,react,go,cs">
 </div>
 
-<br/><br/><br/>
+<br/>
 
 <div align="center">
   <h1>📈 My Status</h1>
