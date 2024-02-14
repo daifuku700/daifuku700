@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>About Myself</h1>
-  <p>I’m Dai Fukunaga, studying at a university in Japan.</p>
+  <h1>👋 Hi, there!</h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=4C80EB&random=false&width=1065&lines=Hello!+I%E2%80%99m+Dai+Fukunaga%2C+studying+at+a+university+in+Japan." alt="Typing SVG" /></a>
 </div>
 
 <br/>
