@@ -8,7 +8,7 @@
 <div align="center">
   <h1>🌱 My Skills</h1>
   <br/>
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,react,py,java,go,cs,flutter">
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,react,nodejs,py,java,go,gin,cs,flutter,docker">
 </div>
 
 <br/>
