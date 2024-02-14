@@ -16,7 +16,7 @@ Here are some ideas to get you started:
     <h1 >⚒️Languages-Frameworks-Tools ⚒️</h1>
  <br/>
 
-<img src="https://skillicons.dev/icons?i=c++,javascript,python,java">
+<img src="https://skillicons.dev/icons?i=c++,js,py,java,ipynb">
 
 
 
@@ -35,6 +35,7 @@ Here are some ideas to get you started:
   <img alt="Github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=Dai-Fukunaga&show_icons=true&theme=tokyonight&hide_border=true" />
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dai-Fukunaga&hide=html,css&langs_count=8&layout=compact&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+<img alt="trophy" height="180px" src="https://github-profile-trophy.vercel.app/?username=Dai-Fukunaga&theme=tokyonight&column=8)](https://github.com/ryo-ma/github-profile-trophy&no-frame=true" />
 </div>
 
-<img alt="trophy" height="180px" src="https://github-profile-trophy.vercel.app/?username=Dai-Fukunaga&theme=tokyonight&column=8)](https://github.com/ryo-ma/github-profile-trophy&no-frame=true" />
+
