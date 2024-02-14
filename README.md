@@ -1,8 +1,12 @@
 ## About Dai Fukunaga
 Hi, I am a university student in Japan.
+<div align="center">
+  <h1>About Myself</h1>
+  <p>I’m Dai Fukunaga, studying at a university in Japan.</p>
+</div>
 
 <div align="center">
-  <h1 >🌱 My Skills</h1>
+  <h1>🌱 My Skills</h1>
   <br/>
   <img src="https://skillicons.dev/icons?i=cpp,c,js,py,java,react,go">
 </div>
@@ -10,7 +14,7 @@ Hi, I am a university student in Japan.
 <br/><br/><br/>
 
 <div align="center">
-  <h1 >📈 My Status</h1>
+  <h1>📈 My Status</h1>
   <br/>
   <p align="">
     <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dai-Fukunaga&theme=tokyonight" />
