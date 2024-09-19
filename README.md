@@ -14,10 +14,10 @@
 
 <div align="center">
   <h1>📈 My Status</h1>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dai-Fukunaga&theme=algolia" />
-  <img alt="Github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=Dai-Fukunaga&show_icons=true&theme=algolia&hide_border=true" />
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dai-Fukunaga&hide=html,css&langs_count=8&layout=compact&show_icons=true&theme=algolia&hide_border=true" />
-  <img alt="trophy" height="180px" src="https://github-profile-trophy.vercel.app/?username=Dai-Fukunaga&theme=algolia&column=8)](https://github.com/ryo-ma/github-profile-trophy&no-frame=true" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daifuku700&theme=algolia" />
+  <img alt="Github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=daifuku700&show_icons=true&theme=algolia&hide_border=true" />
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daifuku700&hide=html,css&langs_count=8&layout=compact&show_icons=true&theme=algolia&hide_border=true" />
+  <img alt="trophy" height="180px" src="https://github-profile-trophy.vercel.app/?username=daifuku700&theme=algolia&column=8)](https://github.com/ryo-ma/github-profile-trophy&no-frame=true" />
 </div>
 
 
