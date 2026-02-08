@@ -19,16 +19,8 @@
   <h1>📈 My Status</h1>
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daifuku700&theme=algolia" />
   <br/>
-  <table width="100%">
-    <tr>
-      <td width="60%">
-        <img width="100%" height="270" alt="Github stats" src="https://github-readme-stats-nine-ashen-24.vercel.app/api?username=daifuku700&show_icons=true&theme=algolia&hide_border=true" />
-      </td>
-      <td width="40%">
-        <img width="100%" alt="Top Langs" src="https://github-readme-stats-nine-ashen-24.vercel.app/api/top-langs/?username=daifuku700&hide=html,css&langs_count=8&layout=compact&show_icons=true&theme=algolia&hide_border=true" />
-      </td>
-    </tr>
-  </table>
+  <img width="60%" height="280" alt="Github stats" src="https://github-readme-stats-nine-ashen-24.vercel.app/api?username=daifuku700&show_icons=true&theme=algolia&hide_border=true" />
+  <img width="39%" height="280" alt="Top Langs" src="https://github-readme-stats-nine-ashen-24.vercel.app/api/top-langs/?username=daifuku700&hide=html,css&langs_count=8&layout=compact&show_icons=true&theme=algolia&hide_border=true" />
   <br/>
   <img width="100%" alt="trophy" src="https://github-profile-trophy-flax-one.vercel.app/?username=daifuku700&theme=algolia&column=8&no-frame=true" />
 </div>
