@@ -10,7 +10,7 @@
 
 <div align="center">
   <h1>🌱 My Skills</h1>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,cpp,c,js,react,nodejs,java,go,cs,docker">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,azure,cpp,c,js,react,nodejs,java,go,cs,docker">
 </div>
 
 <br/>
@@ -18,9 +18,8 @@
 <div align="center">
   <h1>📈 My Status</h1>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daifuku700&theme=algolia" />
-  <img alt="Github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=daifuku700&show_icons=true&theme=algolia&hide_border=true" />
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daifuku700&hide=html,css&langs_count=8&layout=compact&show_icons=true&theme=algolia&hide_border=true" />
+  <img alt="Github stats" height="180px" src="https://github-readme-stats-m46lqh5p6-daifuku700-ed79c332.vercel.app/api?username=daifuku700&show_icons=true&theme=algolia&hide_border=true" />
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats-m46lqh5p6-daifuku700-ed79c332.vercel.app/api/top-langs/?username=daifuku700&hide=html,css&langs_count=8&layout=compact&show_icons=true&theme=algolia&hide_border=true" />
   <img alt="trophy" height="180px" src="https://github-profile-trophy.vercel.app/?username=daifuku700&theme=algolia&column=8)](https://github.com/ryo-ma/github-profile-trophy&no-frame=true" />
 </div>
-
 
