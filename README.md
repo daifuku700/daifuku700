@@ -21,6 +21,7 @@
   <br/>
   <img width="60%" height="280" alt="Github stats" src="https://github-readme-stats-nine-ashen-24.vercel.app/api?username=daifuku700&show_icons=true&theme=algolia&hide_border=true" />
   <img width="39%" height="280" alt="Top Langs" src="https://github-readme-stats-nine-ashen-24.vercel.app/api/top-langs/?username=daifuku700&hide=html,css&langs_count=8&layout=compact&show_icons=true&theme=algolia&hide_border=true" />
-  <br/>
+  <!-- Temporarily hidden due to the Vercel import error tracked in https://github.com/ryo-ma/github-profile-trophy/issues/466. Restore after verifying the deployed endpoint returns a valid SVG.
   <img width="100%" alt="trophy" src="https://github-profile-trophy-flax-one.vercel.app/?username=daifuku700&theme=algolia&column=8&no-frame=true" />
+  -->
 </div>
